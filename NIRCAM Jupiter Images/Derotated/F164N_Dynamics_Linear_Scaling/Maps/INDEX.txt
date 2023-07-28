@@ -1,0 +1,4 @@
+Maps organized by detector (B1, B2, B3, B4)
+and sequence in the dithering pattern used in the image acquisition (1, 2, 3, 4).
+Maps are compared one by one with a 10 hr rotation.
+Times of the images are given in the file names in the format yyyy-mm-dd-hh-mm-ss
