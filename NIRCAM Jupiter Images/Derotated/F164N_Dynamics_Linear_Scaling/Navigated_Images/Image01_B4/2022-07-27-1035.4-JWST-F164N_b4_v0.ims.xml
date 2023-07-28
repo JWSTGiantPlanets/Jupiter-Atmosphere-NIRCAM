@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WinJUPOS Version="12.0.9">
+  <ImageMeasurementSettings Version="1">
+    <FileName>E:\2022_07_Bckup\JWST\000.JWST_NIRCAM_ERS\ERS_NIRCAM_01373\F150W_SUB640_2Groups\Images_V0_Scaled_Linearly\Image01_B4\jw01373006001_03102_00004_nrcb4_i2d.v0.tif</FileName>
+    <Body>Jupiter</Body>
+    <JulianDateUT>2459787.94125</JulianDateUT>
+    <ObservingPlace>Earth</ObservingPlace>
+    <GeoLongDeg>15.00000</GeoLongDeg>
+    <GeoLatDeg>50.00000</GeoLatDeg>
+    <Observer>JWST</Observer>
+    <ImageInfo>F164N_b4_v0</ImageInfo>
+    <ColorChannel>Color</ColorChannel>
+    <CenterXPixel>619.6</CenterXPixel>
+    <CenterYPixel>822.0</CenterYPixel>
+    <EquatorialRadiusPixel>723.7</EquatorialRadiusPixel>
+    <RotationAngleDeg>-1.504</RotationAngleDeg>
+    <DistanceRatioXToYOfSensorElements>1.000000</DistanceRatioXToYOfSensorElements>
+    <MirroredInvertedImage>False</MirroredInvertedImage>
+    <InverseLongitudes>False</InverseLongitudes>
+    <CM1Deg>333.33</CM1Deg>
+    <CM2Deg>56.08</CM2Deg>
+    <CM3Deg>330.34</CM3Deg>
+    <q>0.9351256575</q>
+    <DeclinationOfEarthOnPlanetDeg>2.55</DeclinationOfEarthOnPlanetDeg>
+  </ImageMeasurementSettings>
+</WinJUPOS>
