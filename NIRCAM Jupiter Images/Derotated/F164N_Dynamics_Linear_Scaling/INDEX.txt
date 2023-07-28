@@ -1,0 +1,4 @@
+F164N Jupiter images obtained from the SUB640 series. These images correspond to the four B detectors on NIRCAM. 
+
+We provide the individual navigated images with WinJupos and maps of these images obtained with a time separation of 10 hr. 
+The maps have been processed to show up the cloud features before measuring winds.
