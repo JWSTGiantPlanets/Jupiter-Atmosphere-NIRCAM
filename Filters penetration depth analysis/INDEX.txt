@@ -1,0 +1,9 @@
+This folder contains the analysis of penetration depths described in Hueso et al. (2023)
+
+This file is:
+Jupiter_Penetration_depth_Two_way_tau_high_resolution.csv
+
+For consistency the filter throughput of different instruments mentioned in the publication are given in the same folder.
+They can also  be accessed from their original sources (StSCI & PDS)
+
+The filter throughput file names identify the mission, instrument and filter in the name of the csv file
