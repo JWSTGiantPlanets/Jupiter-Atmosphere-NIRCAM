@@ -1,0 +1,23 @@
+This folder contains csv files with wind profiles as published in Hueso et al. (2023)
+
+These are displayed in Figure 4 of the paper.
+
+The following wind profiles are from previous publications:
+
+* Jupiter_Winds_Cassini_UV_Year2000_Li_et_al.csv         (Reference: Li et al. JOURNAL OF GEOPHYSICAL RESEARCH, VOL. 111, E04004, doi:10.1029/2005JE002556, 2006)
+* Jupiter_Winds_Cassini_Visible_Year2000_Porco_et_al.csv (Reference: Porco et al. Science,  299, pp. 1541-1547, DOI: 10.1126/science.1079462, 2004)
+
+The following wind profile is based on analysis of HST/WFC3 images of Jupiter
+
+* Jupiter_Winds_HST_F658N_Date_2019-06_26_Binned_data_0.10deg.csv
+
+The following wind profiles are based on analysis of JWST/NIRCAM images of Jupiter
+
+* Jupiter_Winds_JWST_F164N_2022_Binned_data_0.30deg.csv
+* Jupiter_Winds_JWST_F164N_2022_Individual_Tracers.csv
+* Jupiter_Winds_JWST_F212N_2022_Binned_data_0.30deg.csv
+* Jupiter_Winds_JWST_F212N_2022_Individual_Tracers.csv
+* Jupiter_Winds_JWST_F212N_2022_Individual_Tracers_Visual_tracking.csv
+* Jupiter_Winds_JWST_F335M_2022_Binned_data_0.30deg.csv
+* Jupiter_Winds_JWST_F335M_2022_Individual_Tracers.csv
+* Jupiter_Winds_JWST_Winds_differences.csv
