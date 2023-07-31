@@ -2,6 +2,9 @@
 
 Supplementary material for Hueso et al. (2023)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8199030.svg)](https://doi.org/10.5281/zenodo.8199030)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8199030.svg)](https://doi.org/10.5281/zenodo.8199030)
+
 ## Contents ##
 
 
