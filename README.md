@@ -6,7 +6,6 @@ Supplementary material for Hueso et al. (2023)
 
 ## Contents ##
 
-
 ### [Wind profiles](Wind%20profiles) ###
 This folder contains zonal wind profiles in csv format including JWST/NIRCAM wind profiles and references from the literature from Cassini and HST data.
 
